@@ -40,3 +40,18 @@ I enjoy transforming complex data into meaningful insights and creating efficien
   - 3rd Winner Honor of Kings Campus Attack 2024  
   - Sparring Partner – FTI Competition 2024  
   - Participated in Academy Activity / Forum (Seminar, Workshop, and Exhibition)
+
+---
+### 🎲 Play Games With Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radenmuhammadzidan/radenmuhammadzidan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radenmuhammadzidan/radenmuhammadzidan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/radenmuhammadzidan/radenmuhammadzidan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/radenmuhammadzidan/radenmuhammadzidan/output/snake.svg" alt="Snake animation" />
+
+###
