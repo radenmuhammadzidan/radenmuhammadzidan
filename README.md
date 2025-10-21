@@ -28,7 +28,7 @@ I’m **Raden Muhammad Zidan Priatna**, a 5th-semester Information Systems stude
 
 ### 👯 Additional Information
 
-- **Technical Skills:** Python, SQL, C++, HTML, CSS, Word, Excel, Canva  
+- **Technical Skills:** Python, Jupyter Notebook, SQL, C++, HTML, CSS, Word, Excel, Canva  
 - **Languages:** English, Indonesian  
 - **Certifications:** Newbie Hurricane Electric IPv6 Certification, Completed Training Next Generation Network Cisco IPv6 Certification  
 - **Awards / Activities:**  
