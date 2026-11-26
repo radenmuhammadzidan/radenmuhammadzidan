@@ -4,7 +4,7 @@
 ---
 
 ### 🔭 Summary
-I’m **Raden Muhammad Zidan Priatna**, a 5th-semester Information Systems student at **Tarumanagara University** with a current GPA of **3.65**. I have a strong passion for technology and innovation. A well-rounded individual with interests across various aspects of information technology. I enjoy transforming complex data into meaningful insights and creating efficient digital solutions that seamlessly connect users with technology.
+I’m **Raden Muhammad Zidan Priatna**, a 7th-semester Information Systems student at **Tarumanagara University** with a current GPA of **3.75**. I have a strong passion for technology and innovation. A well-rounded individual with interests across various aspects of information technology. I enjoy transforming complex data into meaningful insights and creating efficient digital solutions that seamlessly connect users with technology.
 
 ---
 
